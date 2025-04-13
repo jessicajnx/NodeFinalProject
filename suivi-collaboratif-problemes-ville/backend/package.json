@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+  "bcrypt": "^5.x.x",
+  "cors": "^2.x.x",
+  "express": "^4.x.x",
+  "jsonwebtoken": "^9.x.x",
+  "mysql2": "^3.x.x",
+  "ws": "^8.x.x"
+}
+}
